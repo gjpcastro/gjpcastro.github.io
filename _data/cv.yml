@@ -1,67 +1,79 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Gerica Joie P. Castro
+  label: Geologist
+  email: gpcastro@kangwon.ac.kr
+  location: Kangwon National University, Republic of Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Someone
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Instagram
+      username: gericajoie
     - network: GitHub
       username: example
     - network: LinkedIn
-      username: example
+      username: Gerica Joie Castro
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    # street: 2712 Broadway St
+    city: Chuncheon
+    # region: California
+    # postalCode: CA 94115
+    countryCode: Republic of Korea
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Kangwon National University
+        location: Chuncheon, South Korea
+        url: https://kangwon.ac.kr/ko/index.do
+        area: Geology
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
+        start_date: 2024
+        end_date: ~
+        # score: ""
+        # courses: "Theory of Relativity"
+        #highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Kangwon National University
+        location: Chuncheon, South Korea
+        url: https://kangwon.ac.kr/ko/index.do
+        area: Geology
+        studyType: Masters
+        start_date: 2022
+        end_date: 2024
+        # score: ""
+        # courses: "Theory of Relativity"
+        #highlights:
+          #- Description 1.
+          #- Description 2.
+
+      - institution: University of the Philippines
+        location: Quezon City, Philippines
+        area: Geology
+        studyType: Undergraduate
+        start_date: 2015
+        end_date: 2019
+        # highlights:
+          #- Description 1.
+          #- Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
+      - company: Kangwon National University
+        position: Teaching Assistant
+        location: Kangwon National University, South Korea
+        start_date: 2024
+        end_date: 2024
+        summary: Taught elementary mineralogy to second year geology students.
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of the Philippines Geology Alumni Association
+        position: Student Assistant
+        location: UP Diliman, Philippines
+        start_date: 2017
+        end_date: 2019
         highlights:
           - Description 1.
           - Description 2.
@@ -143,11 +155,14 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Filipino (Tagalog)
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: Korean
+        summary: "Advanced"
 
     Interests:
       - name: Physics
