@@ -518,7 +518,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%67%70%63%61%73%74%72%6F@%6B%61%6E%67%77%6F%6E.%61%63.%6B%72", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -546,7 +546,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("www.linkedin.com/in/gerica-joie-c-98a69ba5", "_blank");
         },
       },{
       id: 'light-theme',
